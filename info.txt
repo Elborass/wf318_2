@@ -1,2 +1,6 @@
 Ceci est le texte contenu dans mon fichier info.txt.
 Tu vois Victoria, mon contenu s'affiche maintenant dans index.php.
+
+
+
+j'ai modifié le fichier text
